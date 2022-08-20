@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greewank
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript framework NodeJS and library ReactJS.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me. My email is gkc1s@semo.edu
 
